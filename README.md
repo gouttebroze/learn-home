@@ -1,10 +1,12 @@
 # Application de soutien scolaire - Learn@Home
 
-* lien vers [document diagrammes d'usages](https://drive.google.com/file/d/1Mn-pU-vr7JhyW6Lk0cDDcX9yXCH04y0K/view?usp=sharing)
+* `Diagrammes de cas d'usages`: lien vers [document diagrammes d'usages](https://drive.google.com/file/d/1Mn-pU-vr7JhyW6Lk0cDDcX9yXCH04y0K/view?usp=sharing)
 
-* voir [lien vers maquette sur Figma](https://www.figma.com/design/A85fyMkMV8GNYO49dIaf1L/P10_appli-soutient-scolaire?node-id=1-5&t=MLt06K52h8pA7QyI-1)
+* `Maquette`: à voir [lien vers maquette sur Figma](https://www.figma.com/design/A85fyMkMV8GNYO49dIaf1L/P10_appli-soutient-scolaire?node-id=1-5&t=MLt06K52h8pA7QyI-1)
 
-* à voir sur [Notion](https://www.notion.so/Page-de-Login-1e4e8029bc1b80c78db7ea7790e35da8?pvs=4)
+* `Tableau Kanban`: à voir sur [Notion](https://www.notion.so/Page-de-Login-1e4e8029bc1b80c78db7ea7790e35da8?pvs=4)
+
+* `User Stories`: voir PDF `./users_stories/user_stories.pdf`
 
 1) Les ``diagrammes de cas d’usage`` pour chacune des fonctionnalités majeures de chaque page:
   
